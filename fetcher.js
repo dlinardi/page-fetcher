@@ -54,4 +54,3 @@ request(`${inputData.url}`, (error, response, body) => {
     throw error;
   }
 });
-
